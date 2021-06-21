@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>http://sumityadav.com.np/</link>
+        <description>This is My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rockerritesh4@gmail.com (rockerritesh)</managingEditor>
+            <webMaster>rockerritesh4@gmail.com (rockerritesh)</webMaster><lastBuildDate>Mon, 21 Jun 2021 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://sumityadav.com.np/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Nepali_Devanagari_Letter_Classifier</title>
+    <link>http://sumityadav.com.np/first_post/</link>
+    <pubDate>Mon, 21 Jun 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://sumityadav.com.np/first_post/</guid>
+    <description><![CDATA[In the search of deep data analytic we comes to deep machine learnig which is most famous way of finding pattern in data and predicting the future state of data pattern.
+In this python based machine learning code i have written a convolution based deep learnig code of predicting and recogination of number,letter and and many more. In this code i have used tranfer learning way of predicting number and letter in real time by using c++ based one of the famous visual modulus callled Open CV.]]></description>
+</item><item>
+    <title>second</title>
+    <link>http://sumityadav.com.np/second_post/</link>
+    <pubDate>Mon, 21 Jun 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://sumityadav.com.np/second_post/</guid>
+    <description><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>]]></description>
+</item></channel>
+</rss>
