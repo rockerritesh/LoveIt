@@ -3,7 +3,7 @@ baseURL = "http://sumityadav.com.np"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Sumit Yadav Blog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -31,7 +31,7 @@ theme = "LoveIt"
     # optional site title override for the app when added to an iOS home screen or Android launcher
     title = "LoveIt"
     # whether to omit favicon resource links
-    noFavicon = false
+    noFavicon = true
     # modern SVG favicon to use in place of older style .png and .ico files
     svgFavicon = ""
     # Android browser theme color
@@ -138,7 +138,7 @@ theme = "LoveIt"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "Music"
+      disclaimer = "Computer Engineering Student"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -153,7 +153,7 @@ theme = "LoveIt"
     GitHub = "rockerritesh"
     Linkedin = "rockerritesh"
     Twitter = "Rocker_Ritesh"
-    Instagram = "@rockerritesh"
+    Instagram = "rockerritesh"
     Facebook = "rocker.ritesh.2"
     Telegram = "rockerritesh"
     Medium = "@rockerritesh"
@@ -542,7 +542,7 @@ theme = "LoveIt"
   [[menu.main]]
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
-    pre = "🙂"
+    pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Posts"
@@ -550,14 +550,7 @@ theme = "LoveIt"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 2
+  
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -566,5 +559,13 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "Biography"
+    pre = ""
+    post = ""
+    name = "Biography"
+    url = "/biography/"
+    title = ""
+    weight = 1  
 
 
