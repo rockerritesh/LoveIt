@@ -550,7 +550,15 @@ theme = "LoveIt"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
-  
+  [[menu.main]]
+    identifier = "Biography"
+    pre = ""
+    post = ""
+    name = "Biography"
+    url = "/biography/"
+    title = "For You!!"
+    weight = 1  
+    
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -559,13 +567,13 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
-  [[menu.main]]
-    identifier = "Biography"
+  
+[[menu.main]]
+    identifier = "Photography"
     pre = ""
     post = ""
-    name = "Biography"
-    url = "/biography/"
+    name = "Photography"
+    url = "/photography/"
     title = ""
     weight = 1  
-
 

@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
+        <title>All Posts - Sumit Yadav Blog</title>
         <link>http://sumityadav.com.np/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
+        <description>All Posts | Sumit Yadav Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rockerritesh4@gmail.com (rockerritesh)</managingEditor>
             <webMaster>rockerritesh4@gmail.com (rockerritesh)</webMaster><lastBuildDate>Mon, 21 Jun 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://sumityadav.com.np/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Nepali_Devanagari_Letter_Classifier</title>

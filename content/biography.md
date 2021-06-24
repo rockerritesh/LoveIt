@@ -1,8 +1,8 @@
 ---
 weight: 2
 title: "Biography"
-date:    2020-05-08T18:28:40+09:00
-lastmod: 2020-05-08T18:28:40+09:00
+date:    2020-06-23T18:28:40+09:00
+lastmod: 2020-06-23T18:28:40+09:00
 draft: false
 author: "rockerritesh"
 description: "biography."
@@ -14,13 +14,14 @@ lightgallery: true
 Computer Engineering Student.
 Dept. Electronics and Computer Engineering,.
 Pulchowk Campus
-Tribhuvan University, Japan
+Tribhuvan University, Nepal
 
 ## Interests
 
 - Data Manuplation(Machine Learning)
 - Computer Simulations
 - Software Engineering (C++, Python)
+- Photography
 
 ## Technical Skills
 
@@ -36,15 +37,17 @@ see [Publications](/posts).
 
 ## Educational/Work history
 
-- 2019/04/01~ JSPS Research Fellowship for Young Scientists DC2
-- 2018/04/01~ RIKEN Center for Biological Dynamical Research (BDR), Laboratory for Biologically Inspired Computing, Research Part-time Worker.
-- 2016/04/01~ Dept. Biophysics, Div. Biol. Graduate School of Science Kyoto University
-- 2015/05/01~ RIKEN Quantitative Biology Center (QBiC), Laboratory for Biochemical Simulation, Research Part-time Worker.
-- 2012/04/01~ Faculty of Science, Kyoto University
+- 2019/08/01~ Pulchowk campus, Computer Engineering.
+- 2017/04/01~ Kathmandu Bernhardt School, +2 level.
+- 2007/03/01~ School Level.
 
 ## Others
 
-- QBiC Spring Course 2014 (Biochemical Simulation)
-- 8th KEK Summer Challenge (M04)
-- The International Genetically Engineered Machine competition (iGEM) 2013 Silver Medal (Team Kyoto)
-- The International Genetically Engineered Machine competition (iGEM) 2012 Gold Medal (Team Kyoto) 
+- GAN Specialization(Coursera).
+- Deep Learning Specialization(Coursera).
+- Machine Learning(Coursera).
+- Basic Python course(Udemy).
+
+
+## Find my CV > [HERE](/cv.pdf).
+
