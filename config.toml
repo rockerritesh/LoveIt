@@ -1,9 +1,9 @@
-baseURL = "http://sumityadav.com.np"
+baseURL = "sumityadav.com.np"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Sumit Yadav Blog"
+title = "Sumit Yadav"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -165,7 +165,7 @@ theme = "LoveIt"
     Quora = ""
     Keybase = ""
     Pinterest = ""
-    Reddit = ""
+    Reddit = "rockerritesh"
     Codepen = ""
     FreeCodeCamp = ""
     Bitbucket = ""
@@ -314,9 +314,9 @@ theme = "LoveIt"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "Sumit Yadav"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -556,8 +556,8 @@ theme = "LoveIt"
     post = ""
     name = "Biography"
     url = "/biography/"
-    title = "For You!!"
-    weight = 1  
+    title = ""
+    weight = 3  
     
   [[menu.main]]
     identifier = "categories"
@@ -566,14 +566,14 @@ theme = "LoveIt"
     name = "Categories"
     url = "/categories/"
     title = ""
-    weight = 3
+    weight = 2
   
-[[menu.main]]
+  [[menu.main]]
     identifier = "Photography"
     pre = ""
     post = ""
     name = "Photography"
     url = "/photography/"
     title = ""
-    weight = 1  
+    weight = 4  
 
