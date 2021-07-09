@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Sumit Yadav Blog</title>
+        <title>Sumit Yadav</title>
         <link>http://sumityadav.com.np/</link>
         <description>This is My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rockerritesh4@gmail.com (rockerritesh)</managingEditor>

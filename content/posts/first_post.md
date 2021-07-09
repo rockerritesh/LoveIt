@@ -16,4 +16,6 @@ In this python based machine learning code i have written a convolution based de
 I have trained myprogram in my local data set i.e devanagari data set.
 
 You can find all code in my [github](https://github.com/rockerritesh/1st-project-NEPAL-Nepali_devanagari_Classifier-Ka-Kha-Ga---Ek-Dui-Tin-)
+
+# HI
  

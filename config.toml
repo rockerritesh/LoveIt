@@ -1,4 +1,4 @@
-baseURL = "sumityadav.com.np"
+baseURL = "http://sumityadav.com.np"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -314,9 +314,9 @@ theme = "LoveIt"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
-        shortname = "Sumit Yadav"
+        shortname = "rockerritesh"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -494,7 +494,7 @@ theme = "LoveIt"
 [author]
   name = "rockerritesh"
   email = "rockerritesh4@gmail.com"
-  link = "sumityadav.com.np"
+  link = "http://sumityadav.com.np"
 
 # Sitemap config
 [sitemap]
@@ -548,7 +548,7 @@ theme = "LoveIt"
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "POST"
     weight = 1
   [[menu.main]]
     identifier = "Biography"
